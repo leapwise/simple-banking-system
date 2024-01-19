@@ -1,0 +1,50 @@
+sender_account_id,receiver_account_id,amount,currency,message,timestamp,created,modified
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,79f3957a-1050-4978-9854-8dd5ae552c1f,1400.26,USD,John Doe sends 1400.26 US Dollar to Mason Martin.,2023-11-07,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,270ec457-4919-453a-9b36-0dad2a0337f1,2209.15,USD,John Doe sends 2209.15 US Dollar to Ava Jackson.,2024-01-09,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,4634b53d-78ab-4377-b4ad-ded52fb596f2,319.14,USD,John Doe sends 319.14 US Dollar to Aiden White.,2024-01-18,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,7305e382-8e42-48f7-bd1c-b522accfceac,8917.80,USD,John Doe sends 8917.80 US Dollar to Charlie Davis.,2023-11-25,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,99f708a9-9220-4728-9742-32188f2f4277,1281.11,USD,John Doe sends 1281.11 US Dollar to Lucas Turner.,2024-01-18,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,8ce4fed0-8960-4fa5-ab69-e77288c6c37d,6528.57,EUR,John Doe sends 6528.57 Euro to Ethan Martinez.,2023-11-07,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,7da103d3-8117-4600-bdf9-c60b85b38bd0,1093.34,EUR,John Doe sends 1093.34 Euro to Sophie Moore.,2024-01-18,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,acb9550a-e24c-43d9-b74c-ad7c2b23fa5d,11892.91,EUR,John Doe sends 11892.91 Euro to Emma Brown.,2023-11-07,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,f6a54774-288a-4b53-9318-86462ccc2390,3116.82,EUR,John Doe sends 3116.82 Euro to Aiden White.,2023-12-13,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,4634b53d-78ab-4377-b4ad-ded52fb596f2,154.95,USD,John Doe sends 154.95 US Dollar to Aiden White.,2023-10-29,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,dfbe40f0-782f-4466-a689-9068f0510e24,1462.59,USD,John Doe sends 1462.59 US Dollar to Logan Taylor.,2023-11-07,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,7da103d3-8117-4600-bdf9-c60b85b38bd0,5467.79,EUR,John Doe sends 5467.79 Euro to Sophie Moore.,2023-11-25,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,bb43b6ca-c927-402f-b84b-ee840d8b4c25,12734.14,EUR,John Doe sends 12734.14 Euro to Sophia Hill.,2023-12-22,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,bb43b6ca-c927-402f-b84b-ee840d8b4c25,7676.00,EUR,John Doe sends 7676.00 Euro to Sophia Hill.,2023-12-22,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,0c7a69df-66de-4e5f-a6ac-6235563a5a08,10195.02,EUR,John Doe sends 10195.02 Euro to Sophia Turner.,2023-11-07,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,59b6d9be-9980-4238-945b-cb8573568a7c,1480.01,USD,John Doe sends 1480.01 US Dollar to Mia Anderson.,2023-11-25,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,8a71e589-1897-48c0-870c-88d83302e0bd,6554.94,EUR,John Doe sends 6554.94 Euro to Alice Williams.,2023-12-31,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,23eda4b7-641a-4028-a1a5-bcfde14afb28,869.05,EUR,John Doe sends 869.05 Euro to Logan Taylor.,2023-12-04,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,2823aa09-4f91-44ab-ace0-a2baf38f6d47,8174.67,EUR,John Doe sends 8174.67 Euro to Ethan Martinez.,2023-12-13,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,640bbe16-be60-4f93-8d7d-10a10394d0a6,9638.77,EUR,John Doe sends 9638.77 Euro to Liam Harris.,2023-11-07,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,2823aa09-4f91-44ab-ace0-a2baf38f6d47,7182.44,EUR,John Doe sends 7182.44 Euro to Ethan Martinez.,2023-11-07,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,8a71e589-1897-48c0-870c-88d83302e0bd,6806.91,EUR,John Doe sends 6806.91 Euro to Alice Williams.,2023-12-13,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,3a73a600-5067-4b01-b9d8-78cfc90fb01e,2529.49,EUR,John Doe sends 2529.49 Euro to William Lee.,2023-12-31,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,973225bd-6026-4fd3-8bd8-61d2d26ab5ea,2217.96,USD,John Doe sends 2217.96 US Dollar to Olivia Wilson.,2023-12-22,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,f46dfd10-b10b-46c6-9584-f63fdaaa27e7,6139.61,EUR,John Doe sends 6139.61 Euro to William Lee.,2024-01-09,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,cb734778-67a0-4bdb-a5d3-5ef272256d10,13158.36,EUR,John Doe sends 13158.36 Euro to Emma Rodriguez.,2023-10-29,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,fea7f68d-8cff-4fc2-9139-76376d22a384,3154.78,EUR,John Doe sends 3154.78 Euro to Daniel Miller.,2024-01-18,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,78cdac72-b549-4331-9569-c92a05a7db4f,6856.59,USD,John Doe sends 6856.59 US Dollar to Emma Rodriguez.,2023-11-16,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,6b94441d-6852-41a2-ac9e-4afed71990cb,10407.68,EUR,John Doe sends 10407.68 Euro to Lily Lewis.,2023-11-25,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,6b94441d-6852-41a2-ac9e-4afed71990cb,4739.35,EUR,John Doe sends 4739.35 Euro to Lily Lewis.,2024-01-09,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,acdf3f50-da57-4704-ade0-21be3b3d46e6,431.97,EUR,John Doe sends 431.97 Euro to Jane Smith.,2023-11-07,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,d911ea00-e26e-4c56-8135-6cb674c6bc60,11953.09,USD,John Doe sends 11953.09 US Dollar to Sophie Moore.,2023-12-13,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,d558b415-0341-4e94-8e7f-4d27b4498866,10741.67,EUR,John Doe sends 10741.67 Euro to Sophia Hill.,2023-12-22,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,d11d6df7-e56c-4a50-b05e-c882bf094eac,6323.46,USD,John Doe sends 6323.46 US Dollar to Isabella Lopez.,2023-11-25,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,640bbe16-be60-4f93-8d7d-10a10394d0a6,13837.50,EUR,John Doe sends 13837.50 Euro to Liam Harris.,2024-01-18,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,cb734778-67a0-4bdb-a5d3-5ef272256d10,6306.59,EUR,John Doe sends 6306.59 Euro to Emma Rodriguez.,2023-11-07,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,78cdac72-b549-4331-9569-c92a05a7db4f,3592.07,USD,John Doe sends 3592.07 US Dollar to Emma Rodriguez.,2023-12-13,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,b61c64b2-f350-4b23-993e-2007253f53ab,5575.22,EUR,John Doe sends 5575.22 Euro to Olivia Wilson.,2023-10-29,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,fc7c38cc-2d6c-4e1f-b2de-1605bb265bcd,13142.49,EUR,John Doe sends 13142.49 Euro to Daniel Miller.,2023-11-16,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,fb1766dd-cdec-4dba-9b5c-37e8f527a9e8,3641.72,EUR,John Doe sends 3641.72 Euro to Noah Hall.,2023-11-07,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,dbb99a4c-2af4-450d-a382-259e686a689b,5445.29,EUR,John Doe sends 5445.29 Euro to Olivia Wilson.,2023-12-04,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,4634b53d-78ab-4377-b4ad-ded52fb596f2,79.80,USD,John Doe sends 79.80 US Dollar to Aiden White.,2023-12-13,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,6b94441d-6852-41a2-ac9e-4afed71990cb,13003.98,EUR,John Doe sends 13003.98 Euro to Lily Lewis.,2023-11-25,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,56e97d83-fabf-470b-b792-0e5cbff6d1b0,3467.64,EUR,John Doe sends 3467.64 Euro to Mason Martin.,2023-10-29,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,8ce4fed0-8960-4fa5-ab69-e77288c6c37d,9856.23,EUR,John Doe sends 9856.23 Euro to Ethan Martinez.,2023-11-16,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,97475bae-e414-4e18-ab62-a8551d5eac88,7165.07,EUR,John Doe sends 7165.07 Euro to Alice Williams.,2023-12-22,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,bcd3be48-48f0-42d0-833c-0f24950eae13,2070.77,USD,John Doe sends 2070.77 US Dollar to Noah Hall.,2024-01-09,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,519aaa77-f506-4a3a-9c25-146439e1f094,10425.60,EUR,John Doe sends 10425.60 Euro to Aiden White.,2024-01-09,2024-01-19,2024-01-19
+673ccf2a-c9d2-40e0-a198-a6f946d532fc,fea7f68d-8cff-4fc2-9139-76376d22a384,6551.97,EUR,John Doe sends 6551.97 Euro to Daniel Miller.,2024-01-09,2024-01-19,2024-01-19
